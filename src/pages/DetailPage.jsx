@@ -63,7 +63,7 @@ export const DetailPage = () => {
                         </div>
                     </div>
                 : 
-                    <h1>No hay datos</h1> 
+                    <h1>No hay productos</h1> 
             }
         </div>
     )
