@@ -1,0 +1,7 @@
+export { HomePage } from './HomePage'
+export { ProductsPage } from './ProductsPage'
+export { DetailPage } from './DetailPage'
+export { CategoryPage } from './CategoryPage'
+export { AboutPage } from './AboutPage'
+export { ContactsPage } from './ContactsPage'
+export { NotFoundPage } from './NotFoundPage'
